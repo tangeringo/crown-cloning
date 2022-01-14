@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crown-cloning/static/css/main.9380343b.css",
+    "main.js": "/crown-cloning/static/js/main.ce6b9319.js",
+    "static/media/shopping-bag.svg": "/crown-cloning/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/crown-cloning/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/crown-cloning/index.html",
+    "main.9380343b.css.map": "/crown-cloning/static/css/main.9380343b.css.map",
+    "main.ce6b9319.js.map": "/crown-cloning/static/js/main.ce6b9319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9380343b.css",
+    "static/js/main.ce6b9319.js"
+  ]
+}
